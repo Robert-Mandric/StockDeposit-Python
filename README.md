@@ -1,6 +1,6 @@
 # StockDeposit-Python
 
-**Avem aplicatia care tine stocul unui depozit. Efectuati urmatoarele imbunatatiri:
+**Avem aplicatia care tine stocul unui depozit. Efectuati urmatoarele imbunatatiri:**
 	
 1. Implementati o solutie care sa returneze o proiectie grafica a intrarilor si iesirilor intr-o                          
 anumita perioada, pentru un anumit produs;	--pygal--
